@@ -3,6 +3,6 @@ Login script for BITS Goa Portal
 How to use:
 
 1. edit the username and password fields with your own
-2. add tp startup folder
+2. add to startup folder
 
 
